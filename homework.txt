@@ -1,0 +1,3 @@
+what is crossorigin ?
+what is cdn ?
+what is async and defer ?
